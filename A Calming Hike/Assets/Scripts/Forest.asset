@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-68.5,"y":-14.5},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-227.0,"y":-102.0},"guid":"a9c952ac-6401-4d17-b5e6-009ddf17f318","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"type":"System.String","value":{"$content":"Started","$type":"System.String"},"defaultValues":{},"position":{"x":-227.0,"y":-5.0},"guid":"8d4918cb-ceab-4af3-bf5d-2b0c41515e4e","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"12"},{"chainable":false,"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":-16.0,"y":-105.0},"guid":"c73b2447-0028-4f87-ad0d-6140d90b7fdb","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"14"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"enter","guid":"96609961-6308-4068-99bd-8a5ccf5c5e05","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"output","destinationUnit":{"$ref":"14"},"destinationKey":"%message","guid":"3e97e6ef-a006-4300-8b7c-58237542e8cc","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
