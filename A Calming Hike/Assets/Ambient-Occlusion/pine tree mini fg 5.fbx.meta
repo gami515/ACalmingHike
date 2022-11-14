@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 302dd0ec8bf3e7e4b8c0562c5db55268
+guid: 1252457e838d25945a1142541dfd7a57
 ModelImporter:
   serializedVersion: 22103
   internalIDToNameTable:
@@ -17,7 +17,7 @@ ModelImporter:
     second: //RootNode
   - first:
       43: 4300000
-    second: Cylinder_011
+    second: Cylinder_014
   - first:
       95: 9500000
     second: //RootNode

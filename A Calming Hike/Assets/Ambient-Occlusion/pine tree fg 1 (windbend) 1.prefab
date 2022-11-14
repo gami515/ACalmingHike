@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4335479963852232639}
   - component: {fileID: 3310793998031094400}
   m_Layer: 0
-  m_Name: pine tree fg 1 (windbend)
+  m_Name: pine tree fg 1 (windbend) 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,8 +63,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1068f895bc7fa154a991b189594aa614, type: 2}
-  - {fileID: 2100000, guid: cb6da750566f5584287693ac6aa77e8a, type: 2}
+  - {fileID: 2100000, guid: a1bf0a2b27f3c2a4595f7a67296979d0, type: 2}
+  - {fileID: 2100000, guid: bf95e9bf322215a48b44c47863387b02, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
