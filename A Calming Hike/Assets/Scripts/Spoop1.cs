@@ -10,6 +10,6 @@ public class Spoop1 : MonoBehaviour
     {
         Debug.Log("Spoop Activated");
         audioSource.Play();
-        Destroy(gameObject);
+        Destroy(this);
     }
 }
